@@ -4,6 +4,7 @@
 
 # .NET Microservices Sample Reference Application
 # F1 branch commit
+#for merge conflict, update on F1
 Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
 
 ![](img/eshop-webmvc-app-screenshot.png)
